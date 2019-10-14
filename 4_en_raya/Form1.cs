@@ -16,5 +16,10 @@ namespace _4_en_raya
         {
             InitializeComponent();
         }
+
+        private void Button16_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
